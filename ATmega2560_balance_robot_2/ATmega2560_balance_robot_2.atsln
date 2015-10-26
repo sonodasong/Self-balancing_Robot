@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ATmega2560_balance_robot_2", "ATmega2560_balance_robot_2\ATmega2560_balance_robot_2.cproj", "{12BB9457-0A69-4EC6-92CA-7DEF7236744C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12BB9457-0A69-4EC6-92CA-7DEF7236744C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{12BB9457-0A69-4EC6-92CA-7DEF7236744C}.Debug|AVR.Build.0 = Debug|AVR
+		{12BB9457-0A69-4EC6-92CA-7DEF7236744C}.Release|AVR.ActiveCfg = Release|AVR
+		{12BB9457-0A69-4EC6-92CA-7DEF7236744C}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
